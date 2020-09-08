@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539531975282",
+    "firebase_url": "https://fir-ce47d.firebaseio.com",
+    "project_id": "fir-ce47d",
+    "storage_bucket": "fir-ce47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539531975282:android:7a6bac01a8beb6046000eb",
+        "android_client_info": {
+          "package_name": "com.gibran.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539531975282-u46rrrim3pav56iafgnk8ojm1osvcnmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gibran.example.google_signin",
+            "certificate_hash": "e27047b2aff2a8cf5fb53dd3d7e93d89acc13a1e"
+          }
+        },
+        {
+          "client_id": "539531975282-fjgpdbmp8qfe6tt8935ni3d4j7tkggp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXXB5ibpqk1ceJLWBBRyU4QcGcvG9RZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539531975282-fjgpdbmp8qfe6tt8935ni3d4j7tkggp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
